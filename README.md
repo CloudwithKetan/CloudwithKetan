@@ -1,4 +1,3 @@
-<!-- Profile Banner -->
 ![Header](https://github.com/ketan-devops/ketan-devops/blob/main/assets/banner.png)
 
 # 👋 Hi, I'm Ketan Dhadve  
@@ -13,7 +12,7 @@ I’m passionate about **cloud computing, infrastructure automation, and CI/CD p
 ### 🧰 **Tech Stack & Tools**
 | Category | Tools |
 |-----------|--------|
-| ☁️ **Cloud Platforms** | AWS (EC2, S3, IAM, Lambda, CloudFormation, EKS) |
+| ☁️ **Cloud Platforms** | AWS (EC2, S3, IAM, CloudFront, CloudFormation, EFS) |
 | ⚙️ **DevOps & IaC** | Docker · Kubernetes · Terraform · Ansible · Jenkins |
 | 💻 **Programming & Scripting** | Python · Bash · YAML · HTML/CSS |
 | 🔄 **Version Control & CI/CD** | Git · GitHub Actions · Jenkins |
