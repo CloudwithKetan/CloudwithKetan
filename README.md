@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- Profile Banner -->
+![Header](https://github.com/ketan-devops/ketan-devops/blob/main/assets/banner.png)
 
-<!--
-**CloudwithKetan/CloudwithKetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ketan Dhadve  
 
-Here are some ideas to get you started:
+🚀 **DevOps Engineer | AWS Cloud Enthusiast | Automation Learner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub!  
+I’m passionate about **cloud computing, infrastructure automation, and CI/CD pipelines** — turning ideas into scalable cloud systems.
+
+---
+
+### 🧰 **Tech Stack & Tools**
+| Category | Tools |
+|-----------|--------|
+| ☁️ **Cloud Platforms** | AWS (EC2, S3, IAM, Lambda, CloudFormation, EKS) |
+| ⚙️ **DevOps & IaC** | Docker · Kubernetes · Terraform · Ansible · Jenkins |
+| 💻 **Programming & Scripting** | Python · Bash · YAML · HTML/CSS |
+| 🔄 **Version Control & CI/CD** | Git · GitHub Actions · Jenkins |
+| 📈 **Monitoring & Logging** | Prometheus · Grafana |
+
+---
+
+### 🌱 **Currently Learning**
+- AWS Advanced Services (ECS, EKS, CloudFormation)
+- Terraform + Jenkins CI/CD Pipelines  
+- Kubernetes Deployment Automation
+
+---
+
+### 💼 **Projects**
+- 🧩 [AWS S3 Versioning Demo](#) — Simple demo showing version control in S3  
+- ⚙️ [CI/CD Pipeline with Jenkins](#) — Automated build and deploy pipeline  
+- ☸️ [Kubernetes Deployment](#) — App deployment on Kubernetes cluster  
+- 🧠 [Terraform Infra Setup](#) — Infrastructure as Code for AWS EC2
+
+---
+
+### 📊 **GitHub Stats**
+![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketan-devops&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-devops&layout=compact&theme=radical)
+
+---
+
+### 📫 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan_Dhadve-blue?style=flat&logo=linkedin)](https://linkedin.com)  
+[![Email](https://img.shields.io/badge/Email-ketan@example.com-red?style=flat&logo=gmail)](mailto:ketan@example.com)
+
+---
+
+### ⚡ **Fun Fact**
+> "Automation turns repetition into innovation."
+
+⭐ **If you like my projects, don’t forget to star them!**
