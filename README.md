@@ -1,14 +1,18 @@
-<!-- Banner (replace with your uploaded banner at ./assets/banner.png) -->
 
-# 👋 Hi, I'm Ketan Dhadve
+<h1 align="center">👋 Hi, I'm Ketan Dhadve</h1>
 
-🎓 **Recent Graduate | Aspiring DevOps Engineer | AWS Cloud Enthusiast**
+<p align="center">
+  🎓 <b>Recent Graduate</b> | <b>Aspiring DevOps Engineer</b> | <b>AWS Cloud Enthusiast</b>
+</p>
 
 > I’ve recently completed my graduation and am now focused on building a strong career in **DevOps and Cloud Engineering**.  
 > I automate tasks, build CI/CD pipelines, and manage cloud infrastructure.
 
 <!-- Typing animation (auto-generated SVG) -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2b6cb0&center=true&width=760&lines=Aspiring+DevOps+Engineer;AWS+•+Kubernetes+•+Linux+•+Terraform)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2b6cb0&center=true&width=760&lines=Aspiring+DevOps+Engineer;AWS+•+Kubernetes+•+Linux+•+Terraform" alt="Typing SVG">
+</p>
+
 
 ---
 
