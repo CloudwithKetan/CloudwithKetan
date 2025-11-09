@@ -1,4 +1,4 @@
-![Header](https://github.com/CloudwithKetan/CloudwithKetan/main/assets/banner.png)
+!(https://github.com/CloudwithKetan/CloudwithKetan/main/assets/banner.png)[Header](./assets/banner.png)
 
 # 👋 Hi, I'm Ketan Dhadve  
 
