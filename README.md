@@ -58,7 +58,7 @@
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan_Dhadve-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-ketan@example.com-red?style=flat&logo=gmail)](mailto:ketan@example.com)
+[![Email](https://img.shields.io/badge/Email-ketandhadve95@gmail.com-red?style=flat&logo=gmail)](mailto:ketandhadve95@gmail.com)
 
 ---
 
