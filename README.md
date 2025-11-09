@@ -1,4 +1,6 @@
-![Header](https://github.com/CloudwithKetan/assets/banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="Ketan Dhadve GitHub Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Ketan Dhadve  
 
