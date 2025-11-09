@@ -1,48 +1,69 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ketan+Dhadve;DevOps+Engineer+%7C+AWS+Learner;Cloud+%26+Automation+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
+<!-- Banner (replace with your uploaded banner at ./assets/banner.png) -->
+![Header](./assets/banner.png)
+
+# 👋 Hi, I'm Ketan Dhadve
+
+🎓 **Recent Graduate | Aspiring DevOps Engineer | AWS Cloud Enthusiast**
+
+> I’ve recently completed my graduation and am now focused on building a strong career in **DevOps and Cloud Engineering**.  
+> I automate tasks, build CI/CD pipelines, and manage cloud infrastructure.
+
+<!-- Typing animation (auto-generated SVG) -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2b6cb0&center=true&width=760&lines=Aspiring+DevOps+Engineer;AWS+•+Kubernetes+•+Linux+•+Terraform)
 
 ---
 
-### 👋 Hi, I'm Ketan Dhadve  
-🚀 **DevOps Engineer | AWS Cloud Enthusiast | Automation Learner**
-
-🎓 I recently graduated and am currently mastering **DevOps** — diving deep into **AWS**, **Kubernetes**, **Linux**, and **CI/CD pipelines**.  
-💡 I love exploring cloud computing, automating infrastructure, and deploying scalable cloud systems.
+### 💡 About Me
+- 🎯 Currently learning and practicing **AWS, DevOps, Kubernetes, and Linux**
+- ☁️ Interested in building and managing **scalable cloud infrastructure**
+- ⚙️ Hands-on with **CI/CD, Docker, Terraform, Jenkins, and Ansible**
+- 🤝 Open to collaboration and eager to learn from the DevOps community
 
 ---
 
-### 🧰 Tech Stack & Tools  
+### 🧰 Tech Stack & Tools
 
 | Category | Tools |
-|-----------|--------|
-| ☁️ **Cloud Platforms** | AWS (EC2, S3, IAM, Lambda, CloudFormation, EKS) |
-| ⚙️ **DevOps & IaC** | Docker, Kubernetes, Terraform, Ansible, Jenkins |
-| 💻 **Programming & Scripting** | Python, Bash, YAML |
-| 🐧 **OS & Monitoring** | Linux, Prometheus, Grafana |
-| 🔄 **Version Control & CI/CD** | Git, GitHub Actions, GitLab CI/CD |
+|---|---|
+| ☁️ Cloud Platforms | AWS (EC2, S3, IAM, Lambda, CloudFormation, EKS) |
+| ⚙️ DevOps & IaC | Docker · Kubernetes · Terraform · Jenkins · Ansible |
+| 🖥️ OS | Linux (Ubuntu, CentOS) |
+| 🧑‍💻 Languages & Scripting | Python · Bash · YAML |
+| 🔁 CI/CD & VCS | Git · GitHub Actions |
+| 📈 Monitoring | Prometheus · Grafana |
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudwithKetan&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CloudwithKetan&theme=tokyonight" alt="GitHub streak" height="150"/>
-</p>
+### 📘 Learning Goals
+- Build a **complete CI/CD pipeline** for cloud applications  
+- Deploy resilient workloads using **Kubernetes & Docker**  
+- Manage infra with **Terraform + Ansible**  
+- Pursue **AWS certification** (Solutions Architect / DevOps Engineer)
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ketan-dhadve" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ketan%20Dhadve-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ketandhadve@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+### 📂 Featured Projects
+- 🔧 **CI/CD with Jenkins** — Jenkins pipeline + GitHub integration  
+- ☁️ **Terraform infra on AWS** — IaC patterns for EC2 & VPC  
+- ☸️ **Kubernetes deploy** — sample app deployments & manifests
+
+*(Pin the repos above in your profile so recruiters see them first.)*
 
 ---
 
-⭐ _“Always learning. Always building.”_
+### 📊 GitHub Stats
+![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CloudwithKetan&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudwithKetan&layout=compact&theme=default)
+
+---
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan_Dhadve-blue?style=flat&logo=linkedin)](https://linkedin.com)  
+[![Email](https://img.shields.io/badge/Email-ketan@example.com-red?style=flat&logo=gmail)](mailto:ketan@example.com)
+
+---
+
+### ⚡ Quote
+> "Every deployment is a step closer to mastering automation."
+
+⭐ Thanks for visiting — feel free to star or fork projects you find useful!
