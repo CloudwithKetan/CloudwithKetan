@@ -1,5 +1,4 @@
 <!-- Banner (replace with your uploaded banner at ./assets/banner.png) -->
-![Header](./assets/banner.png)
 
 # 👋 Hi, I'm Ketan Dhadve
 
