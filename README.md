@@ -84,6 +84,18 @@ Here are some of my practical implementations demonstrating my DevOps skills:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:ketandhadve95@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -91,6 +103,18 @@ Here are some of my practical implementations demonstrating my DevOps skills:
   <a href="https://github.com/CloudwithKetan" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/youruserid" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Let's collaborate, learn, and grow together in the DevOps journey! 🚀</i>
 </p>
 
 ---
