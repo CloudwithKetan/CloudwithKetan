@@ -84,7 +84,7 @@ Here are some of my practical implementations demonstrating my DevOps skills:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/_k_e_t_u_u_u_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
