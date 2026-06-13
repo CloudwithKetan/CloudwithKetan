@@ -25,7 +25,7 @@ Hello! I'm **Ketan Dhadve**, a passionate **DevOps Engineer** based in **Pune, M
 
 My expertise lies in bridging the gap between **Development** and **Operations** — ensuring software is not only built efficiently but also deployed, scaled, and monitored reliably. I am a firm believer in the **"automate everything"** philosophy and continuously strive to eliminate manual, repetitive tasks through smart tooling.
 
-- 🏢 **Experience:** DevOps Engineer @ **Hisan Lab Private Limited**
+- 🏢 **Experience:** DevOps Engineer 
 - 📍 **Location:** Pune, Maharashtra, India
 - 🎓 **Certified:** DevOps Professional
 - 💼 **Status:** Open to New Opportunities
