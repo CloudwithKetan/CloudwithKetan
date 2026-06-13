@@ -1,28 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ketan%20Dhadve&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20Automation%20Expert&descAlignY=65&descSize=16&descColor=a5b4fc"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ketan%20Dhadve&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20Automation%20Expert&descAlignY=62&descSize=18&descColor=a5b4fc"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Ketan Dhadve</h1>
 
 <p align="center">
-  🎓 <b>Recent Graduate</b> | 🚀 <b>Aspiring DevOps Engineer</b> | ☁️ <b>AWS Cloud Enthusiast</b>
+  ⚙️ <b>DevOps Engineer</b> &nbsp;|&nbsp; ☁️ <b>AWS Cloud Enthusiast</b> &nbsp;|&nbsp; 🐳 <b>Docker & Kubernetes</b> &nbsp;|&nbsp; 🔧 <b>Automation Expert</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=0ea5e9&center=true&width=760&lines=Aspiring+DevOps+Engineer;AWS+•+Kubernetes+•+Linux+•+Terraform;Building+Scalable+Systems;Automating+Everything" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=0ea5e9&center=true&width=760&lines=DevOps+Engineer+%7C+Hisan+Lab+Pvt.+Ltd.;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;CI%2FCD+Pipeline+Builder;Automate+Everything+%E2%99%BE%EF%B8%8F" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CloudwithKetan&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/CloudwithKetan?label=Followers&style=flat&color=0ea5e9" alt="Followers" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Ketan Dhadve**, a passionate and driven recent graduate with a strong foundation in **Computer Science** and a growing expertise in **Cloud Computing** and **DevOps Engineering**. My fascination lies in bridging the gap between development and operations, ensuring that software is not only built efficiently but also deployed, scaled, and managed reliably.
+Hello! I'm **Ketan Dhadve**, a passionate **DevOps Engineer** based in **Pune, Maharashtra, India**. I bring hands-on experience from my tenure at **Hisan Lab Private Limited**, where I worked on real-world DevOps practices including CI/CD pipeline development, containerization, and cloud infrastructure management.
 
-My journey into DevOps started with a curiosity about how applications work in real-world, large-scale environments. This led me to dive deep into **Linux system administration**, containerization with **Docker**, orchestration using **Kubernetes**, and infrastructure automation with **Terraform** and **Ansible**. I am a firm believer in the "automate everything" philosophy and constantly seek to eliminate manual, repetitive tasks.
+My expertise lies in bridging the gap between **Development** and **Operations** — ensuring software is not only built efficiently but also deployed, scaled, and monitored reliably. I am a firm believer in the **"automate everything"** philosophy and continuously strive to eliminate manual, repetitive tasks through smart tooling.
 
-I am currently sharpening my skills by building hands-on projects that simulate real-world challenges, from setting up CI/CD pipelines with Jenkins to deploying resilient applications on AWS. I am actively seeking an entry-level role as a **DevOps Engineer** where I can channel my enthusiasm, learn from experienced professionals, and contribute to building scalable, robust systems.
-
-Beyond the terminal, I am an avid reader of tech blogs, enjoy contributing to open-source, and love sharing knowledge with the DevOps community. Let's connect and build something amazing!
+- 🏢 **Experience:** DevOps Engineer @ **Hisan Lab Private Limited**
+- 📍 **Location:** Pune, Maharashtra, India
+- 🎓 **Certified:** DevOps Professional
+- 💼 **Status:** Open to New Opportunities
+- 📧 **Email:** ketandhadve95@gmail.com
+- 🌐 **GitHub:** [CloudwithKetan](https://github.com/CloudwithKetan)
 
 ---
 
@@ -32,21 +40,58 @@ Beyond the terminal, I am an avid reader of tech blogs, enjoy contributing to op
   <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,github,jenkins,ansible,python,bash,grafana,prometheus,nginx,mysql" />
 </p>
 
+### 🔧 Tools & Technologies
+
+| Category | Tools |
+|----------|-------|
+| ☁️ Cloud | AWS (EC2, S3, VPC, IAM, RDS) |
+| 🐳 Containers | Docker, Kubernetes (K8s) |
+| ⚙️ CI/CD | Jenkins, GitHub Actions |
+| 🏗️ IaC | Terraform, Ansible |
+| 🐧 OS | Linux (Ubuntu, CentOS) |
+| 📊 Monitoring | Prometheus, Grafana |
+| 🔀 Version Control | Git, GitHub |
+| 🌐 Web Server | Nginx |
+| 🗄️ Database | MySQL |
+| 🐍 Scripting | Python, Bash |
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 DevOps Engineer — Hisan Lab Private Limited
+📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (6-9 Months)
+
+- ✅ Designed and implemented **CI/CD pipelines** using Jenkins for automated build, test, and deployment workflows
+- ✅ Containerized applications using **Docker** and managed multi-container setups with Docker Compose
+- ✅ Deployed and managed applications on **Kubernetes** clusters with YAML manifests
+- ✅ Provisioned cloud infrastructure on **AWS** using Terraform (IaC)
+- ✅ Automated server configuration and deployment using **Ansible** playbooks
+- ✅ Set up monitoring and alerting systems using **Prometheus** and **Grafana**
+- ✅ Managed source code versioning and collaboration using **Git & GitHub**
+- ✅ Administered **Linux** servers and performed system-level troubleshooting
+
 ---
 
 ## 🚀 Featured Projects
 
-Here are some of my practical implementations demonstrating my DevOps skills:
-
 ### 📦 [EasyCRUD-docker-updated](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
-> A simple CRUD application containerized with Docker. This project showcases my ability to dockerize a full-stack application, manage dependencies, and ensure consistent environments from development to production.
+> A full-stack CRUD application fully containerized with **Docker**. Demonstrates ability to dockerize applications, manage dependencies, and ensure environment consistency from development to production.
+
+**Tech Stack:** `Docker` `Docker Compose` `JavaScript` `Node.js`
+
+---
 
 ### ☸️ [student-app-k8s](https://github.com/mukundDeo9325/student-app-k8s)
-> A collaborative project demonstrating a complete Kubernetes deployment for a student management application. It includes YAML manifests for Deployments, Services, ConfigMaps, and Ingress, highlighting my understanding of pod lifecycle, service discovery, and scaling in a Kubernetes cluster.
+> A complete **Kubernetes** deployment for a student management application. Includes YAML manifests for Deployments, Services, ConfigMaps, and Ingress — highlighting expertise in pod lifecycle, service discovery, and cluster scaling.
 
-### 🗂️ More on my GitHub:
-- **DevOps-Detailed**: A comprehensive guide and code repository for various DevOps tools and practices.
-- **AWS-Journey**: My personal documentation and code snippets as I explore AWS services like EC2, S3, VPC, and IAM.
+**Tech Stack:** `Kubernetes` `Docker` `YAML` `Ingress`
+
+---
+
+### 🗂️ More Repositories
+- **DevOps-Detailed** — Comprehensive guide and code for various DevOps tools and practices
+- **AWS-Journey** — Personal documentation and code snippets exploring AWS (EC2, S3, VPC, IAM)
 
 ---
 
@@ -77,6 +122,14 @@ Here are some of my practical implementations demonstrating my DevOps skills:
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CloudwithKetan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -98,17 +151,17 @@ Here are some of my practical implementations demonstrating my DevOps skills:
 </p>
 
 <p align="center">
-  <i>Let's collaborate, learn, and grow together in the DevOps journey! 🚀</i>
+  <i>💬 Let's collaborate, automate, and build something amazing together! 🚀</i>
 </p>
 
 ---
 
 ## 💡 My DevOps Philosophy
 
-> *"Infrastructure as Code is not just a practice, it's a mindset. Every deployment is a step closer to mastering automation and building unshakeable systems."*
+> *"Infrastructure as Code is not just a practice — it's a mindset. Every pipeline built, every deployment automated, is a step closer to building unshakeable, scalable systems."*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Keep%20Building%20🚀&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Keep%20Automating%20%E2%99%BE%EF%B8%8F&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
 </p>
