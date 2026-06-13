@@ -37,7 +37,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 ## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,github,jenkins,ansible,python,bash,grafana,prometheus,nginx,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,github,jenkins,ansible,grafana,prometheus" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -51,16 +51,14 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 | 🐧 OS | Linux (Ubuntu, CentOS) |
 | 📊 Monitoring | Prometheus, Grafana |
 | 🔀 Version Control | Git, GitHub |
-| 🌐 Web Server | Nginx |
-| 🗄️ Database | MySQL |
 | 🐍 Scripting | Python, Bash |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 DevOps Engineer — Hisan Lab Private Limited
-📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (6-9 Months)
+### 🏢 DevOps Engineer — 
+📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship 
 
 - ✅ Designed and implemented **CI/CD pipelines** using Jenkins for automated build, test, and deployment workflows
 - ✅ Containerized applications using **Docker** and managed multi-container setups with Docker Compose
@@ -75,7 +73,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 ## 🚀 Featured Projects
 
-### 📦 [EasyCRUD-docker-updated](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
+### 📦 [EasyCRUD](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
 > A full-stack CRUD application fully containerized with **Docker**. Demonstrates ability to dockerize applications, manage dependencies, and ensure environment consistency from development to production.
 
 **Tech Stack:** `Docker` `Docker Compose` `JavaScript` `Node.js`
