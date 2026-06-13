@@ -120,13 +120,6 @@ My expertise lies in bridging the gap between **Development** and **Operations**
   <img src="https://github.com/CloudwithKetan/CloudwithKetan/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CloudwithKetan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
