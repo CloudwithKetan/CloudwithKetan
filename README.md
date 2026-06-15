@@ -25,13 +25,12 @@ Hello! I'm **Ketan Dhadve**, a passionate **DevOps Engineer** based in **Pune, M
 
 My expertise lies in bridging the gap between **Development** and **Operations** — ensuring software is not only built efficiently but also deployed, scaled, and monitored reliably. I am a firm believer in the **"automate everything"** philosophy and continuously strive to eliminate manual, repetitive tasks through smart tooling.
 
-- 🏢 **Experience:** DevOps Engineer 
+- 🏢 **Experience:** DevOps Engineer @ **Hisan Lab Private Limited**
 - 📍 **Location:** Pune, Maharashtra, India
 - 🎓 **Certified:** DevOps Professional
 - 💼 **Status:** Open to New Opportunities
 - 📧 **Email:** ketandhadve95@gmail.com
 - 🌐 **GitHub:** [CloudwithKetan](https://github.com/CloudwithKetan)
-
 ---
 
 ## 🧰 Tech Arsenal
@@ -57,8 +56,8 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 ## 💼 Professional Experience
 
-### 🏢 DevOps Engineer — 
-📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship 
+### 🏢 DevOps Engineer — Hisan Lab Private Limited
+📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (6 Months)
 
 - ✅ Designed and implemented **CI/CD pipelines** using Jenkins for automated build, test, and deployment workflows
 - ✅ Containerized applications using **Docker** and managed multi-container setups with Docker Compose
@@ -126,14 +125,6 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 <p align="center">
   <a href="https://www.linkedin.com/in/ketan-dhadve-697a49357/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_k_e_t_u_u_u_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ketandhadve95@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/CloudwithKetan" target="_blank">
