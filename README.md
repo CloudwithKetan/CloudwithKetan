@@ -73,9 +73,10 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 ## 🚀 Featured Projects
 
 ### 📦 [EasyCRUD](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
-> A full-stack CRUD application fully containerized with **Docker**. Demonstrates ability to dockerize applications, manage dependencies, and ensure environment consistency from development to production.
+> Designed and implemented a Jenkins CI/CD pipeline integrated with GitHub to automate code checkout, Docker image builds, testing, and deployment of the 3-tier application, enabling faster and more reliable releases.
 
-**Tech Stack:** `Docker` `Docker Compose` `JavaScript` `Node.js`
+**Tech Stack:** `Docker` `Docker Compose` `Jenkins` `GitHub` `JavaScript` `React.js` `Node.js` `MySQL`
+
 
 ---
 
