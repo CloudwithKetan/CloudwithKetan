@@ -57,7 +57,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 ## 💼 Professional Experience
 
 ### 🏢 DevOps Engineer — Hisan Lab Private Limited
-📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (6 Months)
+📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (9 Months)
 
 - ✅ Designed and implemented **CI/CD pipelines** using Jenkins for automated build, test, and deployment workflows
 - ✅ Containerized applications using **Docker** and managed multi-container setups with Docker Compose
