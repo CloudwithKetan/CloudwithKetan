@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  🌐 <b><a href="https://cloudwithketan.github.io" target="_blank">Explore My Live Portfolio Website 🚀</a></b>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CloudwithKetan&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/CloudwithKetan?label=Followers&style=flat&color=0ea5e9" alt="Followers" />
 </p>
@@ -30,6 +34,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 - 🎓 **Certified:** DevOps Professional
 - 💼 **Status:** Open to New Opportunities
 - 📧 **Email:** ketandhadve95@gmail.com
+- 🌐 **Portfolio Site:** [cloudwithketan.github.io](https://cloudwithketan.github.io)
 - 🌐 **GitHub:** [CloudwithKetan](https://github.com/CloudwithKetan)
 ---
 
@@ -102,39 +107,6 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudwithKetan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CloudwithKetan&theme=tokyo-night&hide_border=true"/>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/CloudwithKetan/CloudwithKetan/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ketan-dhadve-697a49357/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CloudwithKetan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
-<p align="center">
-  <i>💬 Let's collaborate, automate, and build something amazing together! 🚀</i>
 </p>
 
 ---
