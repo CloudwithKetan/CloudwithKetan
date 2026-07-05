@@ -109,6 +109,20 @@ My expertise lies in bridging the gap between **Development** and **Operations**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudwithKetan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CloudwithKetan&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/CloudwithKetan/CloudwithKetan/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ---
 
 ## 💡 My DevOps Philosophy
