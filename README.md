@@ -109,6 +109,8 @@ My expertise lies in bridging the gap between **Development** and **Operations**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudwithKetan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+---
+
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CloudwithKetan&theme=tokyo-night&hide_border=true"/>
@@ -123,7 +125,6 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 ---
 
----
 
 ## 💡 My DevOps Philosophy
 
