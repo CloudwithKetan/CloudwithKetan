@@ -48,47 +48,57 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 | Category | Tools |
 |----------|-------|
-| ☁️ Cloud | AWS (EC2, S3, VPC, IAM, RDS) |
-| 🐳 Containers | Docker, Kubernetes (K8s) |
-| ⚙️ CI/CD | Jenkins, GitHub Actions |
-| 🏗️ IaC | Terraform, Ansible |
-| 🐧 OS | Linux (Ubuntu, CentOS) |
-| 📊 Monitoring | Prometheus, Grafana |
-| 🔀 Version Control | Git, GitHub |
-| 🐍 Scripting | Python, Bash |
+| ☁️ Cloud | AWS (EC2, S3, VPC, IAM, EKS), GCP, Azure |
+| 🐳 Containers | Docker, Docker Compose, Docker Hub |
+| ⚙️ CI/CD | Jenkins, GitHub Actions, GitLab CI |
+| 🏗️ IaC | Terraform, AWS CloudFormation |
+| 🐧 OS | Linux (Ubuntu, CentOS, Amazon Linux) |
+| 📊 Monitoring | Prometheus, Grafana, Datadog, AWS CloudWatch, ELK Stack |
+| 🔀 Version Control | Git, GitHub, GitLab |
+| 🐍 Scripting | Python, Bash, Shell Scripting |
+| 🛡️ Code Quality & Security | SonarQube, OWASP ZAP, Trivy |
+| 📦 Artifact Registry | Docker Hub, AWS ECR |
+| 🔐 Secrets Management | AWS Secrets Manager |
+| 🗄️ Databases | MySQL, PostgreSQL, MongoDB |
+| 🔨 Build Tools | Maven, npm |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 DevOps Engineer — Hisan Lab Private Limited
-📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (9 Months)
+### 🏢 DevOps Engineer — Hisan-Labs Private Limited
+📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Oct 2025 – Present
 
-- ✅ Designed and implemented **CI/CD pipelines** using Jenkins for automated build, test, and deployment workflows
-- ✅ Containerized applications using **Docker** and managed multi-container setups with Docker Compose
-- ✅ Deployed and managed applications on **Kubernetes** clusters with YAML manifests
-- ✅ Provisioned cloud infrastructure on **AWS** using Terraform (IaC)
-- ✅ Automated server configuration and deployment using **Ansible** playbooks
-- ✅ Set up monitoring and alerting systems using **Prometheus** and **Grafana**
-- ✅ Managed source code versioning and collaboration using **Git & GitHub**
-- ✅ Administered **Linux** servers and performed system-level troubleshooting
+- ✅ Designed and implemented a **Jenkins-based CI/CD pipeline** that reduced manual deployment effort by 60% through automated build, test, and deploy stages
+- ✅ Configured **GitHub webhooks** to trigger automated build and deployment workflows on every code commit, ensuring rapid feedback loops for the development team
+- ✅ Collaborated with development teams to integrate **SonarQube** for static code analysis into the CI pipeline, improving code quality across all services
+- ✅ Containerized 3-tier web applications using **Docker**, writing custom Dockerfiles and Docker Compose configurations to ensure consistent environments across development, staging, and production
+- ✅ Built and pushed Docker images to **Docker Hub** as part of the CI pipeline; managed image versioning and tagging conventions across multiple services
+- ✅ Configured Docker networking and persistent volumes to enable seamless communication between application containers and database services
+- ✅ Deployed and managed containerized microservices on a **Kubernetes** cluster using Deployments, Services, and ConfigMaps; maintained 99.5% uptime across all environments
+- ✅ Configured Kubernetes **Horizontal Pod Autoscaler (HPA)** to handle traffic fluctuations and implemented rolling update strategies for zero-downtime releases
+- ✅ Automated provisioning of AWS EC2 instances, VPCs, and security groups using **Terraform** scripts, reducing infrastructure setup time by 40% and eliminating manual configuration errors
+- ✅ Managed Terraform state files remotely using an **S3 backend** with state locking via **DynamoDB**, ensuring safe concurrent infrastructure operations
+- ✅ Monitored application health and infrastructure metrics using **Prometheus** and **Grafana** dashboards; configured alerts via CloudWatch for EC2 and RDS services
+- ✅ Administered Linux (Ubuntu) servers including user management, cronjob scheduling, log rotation, and firewall configuration using UFW
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 [EasyCRUD](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
-> Designed and implemented a Jenkins CI/CD pipeline integrated with GitHub to automate code checkout, Docker image builds, testing, and deployment of the 3-tier application, enabling faster and more reliable releases.
+### ✈️ Flight Reservation Microservices Application
+> Containerized 5+ independent microservices (booking, auth, payment, notification, API gateway) using Docker with custom Dockerfiles and multi-stage builds, reducing image size by 60%. Deployed the entire microservices suite on a Kubernetes cluster using Deployments, Services, and ConfigMaps, with a rolling update strategy for zero-downtime releases. Configured ClusterIP and LoadBalancer Services alongside NetworkPolicies for secure inter-service communication and external traffic routing, and implemented Horizontal Pod Autoscaler (HPA) with custom CPU/memory thresholds to handle 5x peak traffic automatically. Managed source control and team collaboration through GitHub, enforcing a GitFlow branching strategy throughout the project lifecycle.
 
-**Tech Stack:** `Docker` `Docker Compose` `Jenkins` `GitHub` `JavaScript` `React.js` `Node.js` `MySQL`
-
+**Tech Stack:** `Docker` `Kubernetes` `GitHub` `Microservices Architecture`
 
 ---
 
-### ☸️ [student-app-k8s](https://github.com/mukundDeo9325/student-app-k8s)
-> A complete **Kubernetes** deployment for a student management application. Includes YAML manifests for Deployments, Services, ConfigMaps, and Ingress — highlighting expertise in pod lifecycle, service discovery, and cluster scaling.
+### 📦 EasyCRUD — 3-Tier Application Deployment
+> Architected and deployed a production-grade 3-tier application (React frontend, Node.js backend, MySQL database) using Docker Compose with isolated bridge networks for each tier. Containerized all three application layers with Docker, configuring persistent volumes for the MySQL container to ensure data durability across restarts. Integrated backend RESTful APIs with MySQL using environment-variable-based connection management, eliminating hardcoded credentials from all application code. Managed the full project lifecycle using Git and GitHub, including feature branching, pull requests, and semantic version tagging for each release, and deployed the application on a Linux (Ubuntu 22.04) server with configured firewall rules and per-environment variable management.
 
-**Tech Stack:** `Kubernetes` `Docker` `YAML` `Ingress`
+**Tech Stack:** `Docker` `Docker Compose` `Linux` `Git` `MySQL`
+
+**Repo:** [EasyCRUD-docker-updated](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
 
 ---
 
@@ -122,6 +132,19 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 <p align="center">
   <img src="https://github.com/CloudwithKetan/CloudwithKetan/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Application** — Savitribai Phule Pune University, Pune
+Graduated: 2025 | CGPA: 7.8/10
+
+---
+
+## 🗣️ Languages
+
+English (Professional Working Proficiency) | Hindi (Native) | Marathi (Native)
 
 ---
 
