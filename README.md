@@ -125,7 +125,6 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 ---
 
-
 ## 💡 My DevOps Philosophy
 
 > *"Infrastructure as Code is not just a practice — it's a mindset. Every pipeline built, every deployment automated, is a step closer to building unshakeable, scalable systems."*
