@@ -93,16 +93,15 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 ---
 
-### 📦 EasyCRUD — 3-Tier Application Deployment
-> Architected and deployed a production-grade 3-tier application (React frontend, Node.js backend, MySQL database) using Docker Compose with isolated bridge networks for each tier. Containerized all three application layers with Docker, configuring persistent volumes for the MySQL container to ensure data durability across restarts. Integrated backend RESTful APIs with MySQL using environment-variable-based connection management, eliminating hardcoded credentials from all application code. Managed the full project lifecycle using Git and GitHub, including feature branching, pull requests, and semantic version tagging for each release, and deployed the application on a Linux (Ubuntu 22.04) server with configured firewall rules and per-environment variable management.
+### 🏥 Med-Pharm — B2B Medical ERP Platform
+> Architected and deployed a Spring Boot microservices-based B2B Medical ERP platform (user-service, product-service, order-service) on an AWS EKS cluster, backed by MongoDB Atlas. Built a full Jenkins CI/CD pipeline with declarative, parallelized stages and provisioned infrastructure using reusable Terraform modules (VPC, EKS, IAM) with per-environment workspaces for dev/staging/prod separation. Configured ALB Ingress, Route53, ACM, and CloudFront for secure, production-grade traffic routing, and implemented multi-stage Docker builds along with readiness/liveness probes for reliable, zero-downtime Kubernetes deployments. Diagnosed and resolved a wide range of production issues — including IAM/OIDC trust policy misconfigurations, Kubernetes Secrets encoding bugs, ALB health check failures, and CloudFront/ACM region mismatches — while driving measurable gains: 60% reduction in manual deployment effort, 40% faster infrastructure setup, and 99.5% uptime across environments.
 
-**Tech Stack:** `Docker` `Docker Compose` `Linux` `Git` `MySQL`
-
-**Repo:** [EasyCRUD-docker-updated](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
+**Tech Stack:** `Spring Boot` `AWS EKS` `MongoDB Atlas` `Terraform` `Jenkins` `Docker` `Kubernetes`
 
 ---
 
 ### 🗂️ More Repositories
+- **EasyCRUD** — 3-tier application (React, Node.js, MySQL) deployed with Docker Compose — [EasyCRUD-docker-updated](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
 - **DevOps-Detailed** — Comprehensive guide and code for various DevOps tools and practices
 - **AWS-Journey** — Personal documentation and code snippets exploring AWS (EC2, S3, VPC, IAM)
 
