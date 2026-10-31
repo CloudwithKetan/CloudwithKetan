@@ -67,7 +67,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 ## 💼 Professional Experience
 
 ### 🏢 DevOps Engineer — Hisan-Labs Private Limited
-📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Oct 2025 – Present
+📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Mar 2026 – Present
 
 - ✅ Designed and implemented a **Jenkins-based CI/CD pipeline** that reduced manual deployment effort by 60% through automated build, test, and deploy stages
 - ✅ Configured **GitHub webhooks** to trigger automated build and deployment workflows on every code commit, ensuring rapid feedback loops for the development team
