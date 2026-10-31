@@ -93,7 +93,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 ---
 
-### 🏥 Med-Pharm — B2B Medical ERP Platform
+### 🏥 Medical ERP Platform
 > Architected and deployed a Spring Boot microservices-based B2B Medical ERP platform (user-service, product-service, order-service) on an AWS EKS cluster, backed by MongoDB Atlas. Built a full Jenkins CI/CD pipeline with declarative, parallelized stages and provisioned infrastructure using reusable Terraform modules (VPC, EKS, IAM) with per-environment workspaces for dev/staging/prod separation. Configured ALB Ingress, Route53, ACM, and CloudFront for secure, production-grade traffic routing, and implemented multi-stage Docker builds along with readiness/liveness probes for reliable, zero-downtime Kubernetes deployments. Diagnosed and resolved a wide range of production issues — including IAM/OIDC trust policy misconfigurations, Kubernetes Secrets encoding bugs, ALB health check failures, and CloudFront/ACM region mismatches — while driving measurable gains: 60% reduction in manual deployment effort, 40% faster infrastructure setup, and 99.5% uptime across environments.
 
 **Tech Stack:** `Spring Boot` `AWS EKS` `MongoDB Atlas` `Terraform` `Jenkins` `Docker` `Kubernetes`
